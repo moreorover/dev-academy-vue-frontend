@@ -1,3 +1,7 @@
+# Commentary
+
+I'm concerned about tasks 5 and 6 if I have done these correctly. I'm not familiar with Vue JS at all. Task 5 asks to implement computed field for palindrome calculations, however, I was not able to do do a computed field, instead, I did it using method field. Based on my research these fields are used for document element events handling. Tried to implement this field using filters, however, returned boolean value would be ignored within HTML syntax and would always be read as false regardless of its state. Hope this helps.
+
 # Answer Dev Academy UI Technical Test - Vue
 
 ### ⚠️ **Do not fork** this repository. Download a copy and push to your own repository. ⚠️
